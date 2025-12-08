@@ -43,6 +43,7 @@ dependencies = [
     "s3fs",
     "fastapi",
     "uvicorn",
+    "httpx[socks]",
 ]
 
 [tool.uv]
