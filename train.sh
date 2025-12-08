@@ -1,0 +1,4 @@
+export WANDB_API_KEY=b85e63cba5515431941adc3e0443a9146bf7d5d5
+
+
+bash examples/mini_swe_agent/run_mini_swe_8B.sh
